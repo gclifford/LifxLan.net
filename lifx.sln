@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lifx.Library", "lifx.library\lifx.Library.csproj", "{398F366C-D216-4DA8-9BC8-DC3BBCD77BA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lifx.wpf.app", "lifx.wpf.app\lifx.wpf.app.csproj", "{FA8EBB25-3705-4D06-8CF8-6B986FF959FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398F366C-D216-4DA8-9BC8-DC3BBCD77BA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398F366C-D216-4DA8-9BC8-DC3BBCD77BA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398F366C-D216-4DA8-9BC8-DC3BBCD77BA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398F366C-D216-4DA8-9BC8-DC3BBCD77BA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8EBB25-3705-4D06-8CF8-6B986FF959FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8EBB25-3705-4D06-8CF8-6B986FF959FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8EBB25-3705-4D06-8CF8-6B986FF959FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8EBB25-3705-4D06-8CF8-6B986FF959FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6702A99-F619-4BAC-956A-CB3EE3605296}
+	EndGlobalSection
+EndGlobal
